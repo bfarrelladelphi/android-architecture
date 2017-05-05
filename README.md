@@ -1,4 +1,4 @@
-# Android Architecture Blueprints
+# Android Architecture Blueprints with Kotlin
 
 <img src="https://github.com/googlesamples/android-architecture/wiki/images/aab-logo.png" alt="Android Architecture Blueprints"/>
 
