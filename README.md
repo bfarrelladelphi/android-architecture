@@ -1,6 +1,6 @@
 # todo-mvp-kotlin
 
-This version of the app is called todo-mvp, and provides a foundation for other samples in this project. The sample aims to:
+This version of the app is called todo-mvp-kotlin, and provides a foundation for other samples in this project. The sample aims to:
 
 * Provide a basic [Model-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) (MVP) architecture without using any architectural frameworks.
 * Act as a reference point for comparing and contrasting the other samples in this project.
@@ -16,12 +16,13 @@ Before exploring this sample, you might find it useful to familiarize yourself w
 
 * The [project README](https://github.com/googlesamples/android-architecture/tree/master)
 * The [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) architecture
+* The [Kotlin](https://kotlinlang.org/) language and the [plugin](https://kotlinlang.org/docs/tutorials/kotlin-android.html) for Android Studio
   
 The todo-mvp sample uses the following dependencies:
 * [Common Android support libraries](https://developer.android.com/topic/libraries/support-library/index.html) -  Packages in the com.android.support.* namespace provide backwards compatibility and other features.
 * [Android Testing Support Library](https://developer.android.com/topic/libraries/testing-support-library/index.html) -  A framework used to support UI tests, using both Espresso, and AndroidJUnitRunner.
 * [Mockito](http://site.mockito.org/) - A mocking framework used to implement unit tests.
-* [Guava](https://github.com/google/guava) - A set of core libraries for Java by Google, commonly used in Android apps.
+* [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/) - The standard library for Kotlin, providing essential tools for working with Kotlin.
 
 ### Designing the app
 
