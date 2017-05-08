@@ -14,7 +14,7 @@ This version of the app is called todo-mvp-kotlin, and provides a foundation for
 
 Before exploring this sample, you might find it useful to familiarize yourself with the following topics:
 
-* The [project README](https://github.com/googlesamples/android-architecture/tree/master)
+* The [project README](https://github.com/bfarrelladelphi/android-architecture/tree/master)
 * The [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) architecture
 * The [Kotlin](https://kotlinlang.org/) language and the [plugin](https://kotlinlang.org/docs/tutorials/kotlin-android.html) for Android Studio
   
